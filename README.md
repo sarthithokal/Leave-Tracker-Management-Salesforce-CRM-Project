@@ -3,6 +3,8 @@
 ##  Project Overview
 The **Leave Tracker Management App** is a Salesforce CRM-based solution developed to streamline how organizations track employee leave requests, balances, and approvals. By leveraging **Apex** and **LWC**, this project automates the entire leave lifecycle, providing real-time insights into workforce availability and leave trends.
 
+<img width="866" height="759" alt="image" src="https://github.com/user-attachments/assets/bce3dabd-65b1-466d-ae8c-b6d31fd67aa0" />
+
 
 
 ##  Tech Stack
@@ -23,6 +25,8 @@ Many organizations struggle with fragmented leave management systems characteriz
 
 
 ##  The Solution
+<img width="762" height="352" alt="image" src="https://github.com/user-attachments/assets/f2908c74-377b-4be6-88dc-76ae556265ab" />
+
 A digital-first, automated system built on Salesforce:
 * **Custom Data Architecture:** Linked Employee and Leave objects for 100% data integrity.
 * **Intelligent Automation:** **Apex Triggers** prevent overlapping leaves, while **Batch Apex** auto-calculates monthly accruals.
