@@ -61,3 +61,7 @@ A digital-first, automated system built on Salesforce:
 * **Employees:** Submit requests and track balances.
 * **Managers:** Review requests and monitor team availability.
 * **HR/Admins:** Manage global policies and generate compliance reports.
+
+## 📁 Documentation
+For the full technical breakdown, including detailed object fields and debug logs, please refer to the complete documentation:
+🔗 [**Project Documentation (Google Drive)**](https://docs.google.com/document/d/1kk56X9qn9MhYRo_iPnlykeUspfG5iyE4LVWMeElawEw/edit?usp=sharing)
