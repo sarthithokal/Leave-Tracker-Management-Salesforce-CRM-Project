@@ -25,7 +25,8 @@ Many organizations struggle with fragmented leave management systems characteriz
 
 
 ##  The Solution
-<img width="762" height="352" alt="image" src="https://github.com/user-attachments/assets/f2908c74-377b-4be6-88dc-76ae556265ab" />
+<img width="1918" height="868" alt="Leave_Tracker_Home_Page" src="https://github.com/user-attachments/assets/7bc9fd84-a4ab-4f47-ae3c-0e0bbb63eda2" />
+
 
 A digital-first, automated system built on Salesforce:
 * **Custom Data Architecture:** Linked Employee and Leave objects for 100% data integrity.
